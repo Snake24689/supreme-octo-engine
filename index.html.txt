@@ -1,0 +1,17 @@
+<DOCTYPE html>
+<title>welcome to the animal centre!</title>
+<body>
+<article class="card">
+<img src="https://en.wikipedia.org/wiki/Bird#/media/File:Red_Lory_(Eos_bornea)-6.jpg" class="tinypicture">
+<h3>parrot</h3>
+<p>Habitat:hot places</p>
+</article>
+
+.tinypicture {
+height: 60px;
+border-radius: 10px;
+}
+.card {
+width: 200px;
+height: 200px;
+border: 2px solid #F0FFFF
